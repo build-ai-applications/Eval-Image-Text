@@ -25,8 +25,19 @@
 | **Latency (sec)** | 0.288      | 0.207     | 1.448   | 0.062 | 0.291 |
 
 ## 🎯 Summary
-
+- **PaddleOCR** is the ideal choice for fast and accurate extraction.  
+- **PaddleOCR, Pytesseract and PyOCR** provide fast extraction.  
+- While **EasyOCR** is accurate but is the least fast among the frameworks evaluated.  
+- **DocTR** requires a large input image.  
 
 ## 🚀 How to Use
+1️⃣ Clone the repo: `git clone <repo-url>`      
+2️⃣ Run the app: `Evaluation_Image_to_Text.ipynb`  
+3️⃣ Upload image and run the script get the results.
 
 ## 🔗 References
+- [Pytesseract]  https://github.com/h/pytesseract  
+- [PaddleOCR]  https://github.com/PaddlePaddle/PaddleOCR
+- [EasyOCR] https://github.com/JaidedAI/EasyOCR
+- [DocTR] https://github.com/mindee/doctr
+- [PyOCR] https://gitlab.gnome.org/World/OpenPaperwork/pyocr
