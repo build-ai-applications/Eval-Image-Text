@@ -36,8 +36,8 @@
 3️⃣ Upload image and run the script get the results.
 
 ## 🔗 References
-- [Pytesseract]  https://github.com/h/pytesseract  
-- [PaddleOCR]  https://github.com/PaddlePaddle/PaddleOCR
-- [EasyOCR] https://github.com/JaidedAI/EasyOCR
-- [DocTR] https://github.com/mindee/doctr
-- [PyOCR] https://gitlab.gnome.org/World/OpenPaperwork/pyocr
+- [Pytesseract] (https://github.com/h/pytesseract)  
+- [PaddleOCR] (https://github.com/PaddlePaddle/PaddleOCR)
+- [EasyOCR] (https://github.com/JaidedAI/EasyOCR)
+- [DocTR] (https://github.com/mindee/doctr)
+- [PyOCR] (https://gitlab.gnome.org/World/OpenPaperwork/pyocr)
