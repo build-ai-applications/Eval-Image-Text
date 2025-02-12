@@ -27,7 +27,7 @@
 ## 🎯 Summary
 - **PaddleOCR** is the ideal choice for fast and accurate extraction.  
 - **PaddleOCR, Pytesseract and PyOCR** provide fast extraction.  
-- While **EasyOCR** is accurate but is the least fast among the frameworks evaluated.  
+- While **EasyOCR** is accurate but is the slowest among the frameworks evaluated.  
 - **DocTR** requires a large input image.  
 
 ## 🚀 How to Use
